@@ -3,7 +3,6 @@ import 'package:draft/apps/dash_board_app/models/Email.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:websafe_svg/websafe_svg.dart';
 
 import 'components/header.dart';
 

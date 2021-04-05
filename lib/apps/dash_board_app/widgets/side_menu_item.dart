@@ -1,7 +1,7 @@
 import 'package:draft/apps/dash_board_app/constants/dash_board_constant.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:websafe_svg/websafe_svg.dart';
+
 import 'counter_badge.dart';
 
 class SideMenuItem extends StatelessWidget {
